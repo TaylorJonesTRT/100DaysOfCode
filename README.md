@@ -1,6 +1,5 @@
 # 100 Days of Code (March 17th - In Progress)
 
----
 
 ## Personal Projects
 None as of yet
