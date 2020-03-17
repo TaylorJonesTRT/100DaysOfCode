@@ -4,7 +4,6 @@
 ## Personal Projects
 None as of yet
 
----
 
 ## Daily Log
 
