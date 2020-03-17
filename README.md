@@ -8,4 +8,4 @@ None as of yet
 
 ## Daily Log
 
-Day 1: Worked through Section 1 - 2 of Zero to Mastery Python Developement Course
+Day 1: Worked through Section 1 - 2 and started on Section 3 of the Zero to Mastery Development Course
