@@ -10,3 +10,9 @@ None as of yet
 Day 1: Worked through Section 1 - 2 and started on Section 3 of the Zero to Mastery Python Development Course.
 
 Day 2: Continued on in Section 3 of the Zero to Mastery Python Development Course
+
+Day 3: Just like Day 2, continued on through Section 3, this time almost finishing with it to be able to move onto Section 4 (Python Baiscs II). 
+
+Day 4: Completed Section 3 of the Zero to Mastery Python course and moved onto the next section of Python basics.
+
+Day 5: Started onto Section 4 of Zero to Mastery Python Development and started to learn how to actually create different types of code blocks and more.
