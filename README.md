@@ -18,3 +18,5 @@ Day 4: Completed Section 3 of the Zero to Mastery Python course and moved onto t
 Day 5: Started onto Section 4 of Zero to Mastery Python Development and started to learn how to actually create different types of code blocks and more.
 
 Day 6: Made my way partially through Section 4 of the course and worked on an excercise that was given to further learn conditional logic.
+
+Day 7: Completed Section 4 of the course and completed the Python Exam at the end of the section. Also worked my way through Section 5: Developer Environment.
