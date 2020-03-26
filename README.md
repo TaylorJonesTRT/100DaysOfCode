@@ -23,3 +23,5 @@ Day 6: Made my way partially through Section 4 of the course and worked on an ex
 Day 7: Completed Section 4 of the course and completed the Python Exam at the end of the section. Also worked my way through Section 5: Developer Environment.
 
 Day 8: Completed setting up my Developer Enviroment using VS Code and PYCHARM and began learning OOP in Section 6 of the Zero to Mastery course.
+
+Day 9: Continued to learn about OOP in Python in Section 6. Learned about the 4 pillars (encapsulation, abstraction, inheritance, and polymorphism).
