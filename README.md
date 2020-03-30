@@ -31,3 +31,5 @@ Day 10: Completed Section 6 of the Python course and moved onto the next one whi
 Day 11: Continued through Section 7 of the course and learned about pure functions, map(), filter(), zip(), and reduce ()
 
 Day 12: Finished up with Section 7 by learning about Lambda expression and list/set/dictionary comprehension.
+
+Day 13: Started to work on learning Decorators in Section 8 of the course.
