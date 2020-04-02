@@ -33,3 +33,9 @@ Day 11: Continued through Section 7 of the course and learned about pure functio
 Day 12: Finished up with Section 7 by learning about Lambda expression and list/set/dictionary comprehension.
 
 Day 13: Started to work on learning Decorators in Section 8 of the course.
+
+Day 14: Completed the section on Decorators in Python and moved onto Error Handling in Section 9
+
+Day 15: Completed Section 9 and 10 of the course.
+
+Day 16: Began Section 11 and started to learn about Modules in Python.
