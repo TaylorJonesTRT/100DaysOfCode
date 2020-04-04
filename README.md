@@ -39,3 +39,5 @@ Day 14: Completed the section on Decorators in Python and moved onto Error Handl
 Day 15: Completed Section 9 and 10 of the course.
 
 Day 16: Began Section 11 and started to learn about Modules in Python.
+
+Day 17: Continued working though Section 11 and created a guessing number game from scratch
