@@ -43,3 +43,5 @@ Day 16: Began Section 11 and started to learn about Modules in Python.
 Day 17: Continued working though Section 11 and created a guessing number game from scratch
 
 Day 18: Continued through Section 11 and changed the code around in the guessing game that was created on the previous day to use implement a while loop instead of a for loop and to have a valueerror exception added in as well.
+
+Day 19: Completed Section 11, 12, and 13. Moved onto learning about Regular Expressions
