@@ -26,7 +26,8 @@ Day 8: Completed setting up my Developer Enviroment using VS Code and PYCHARM an
 
 Day 9: Continued to learn about OOP in Python in Section 6. Learned about the 4 pillars (encapsulation, abstraction, inheritance, and polymorphism).
 
-Day 10: Completed Section 6 of the Python course and moved onto the next one which is about Functional Programming. Also started the work of learning what I would need to do and code first for an automatic time tracker made in Python.
+Day 10: Completed Section 6 of the Python course and moved onto the next one which is about Functional Programming.
+Also started the work of learning what I would need to do and code first for an automatic time tracker made in Python.
 
 Day 11: Continued through Section 7 of the course and learned about pure functions, map(), filter(), zip(), and reduce ()
 
@@ -42,6 +43,9 @@ Day 16: Began Section 11 and started to learn about Modules in Python.
 
 Day 17: Continued working though Section 11 and created a guessing number game from scratch
 
-Day 18: Continued through Section 11 and changed the code around in the guessing game that was created on the previous day to use implement a while loop instead of a for loop and to have a valueerror exception added in as well.
+Day 18: Continued through Section 11 and changed the code around in the guessing game that was created on the previous day to
+use implement a while loop instead of a for loop and to have a valueerror exception added in as well.
 
 Day 19: Completed Section 11, 12, and 13. Moved onto learning about Regular Expressions
+
+Day 20: 
