@@ -11,7 +11,7 @@ None as of yet
 
 Day 1: Worked through Section 1 - 2 and started on Section 3 of the Zero to Mastery Python Development Course.
 
-Day 2: Continued on in Section 3 of the Zero to Mastery Python Development Course
+Day 2: Continued on in Section 3 of the Zero to Mastery Python Development Course.
 
 Day 3: Just like Day 2, continued on through Section 3, this time almost finishing with it to be able to move onto Section 4
 (Python Baiscs II).
@@ -36,23 +36,23 @@ inheritance, and polymorphism).
 Day 10: Completed Section 6 of the Python course and moved onto the next one which is about Functional Programming.
 Also started the work of learning what I would need to do and code first for an automatic time tracker made in Python.
 
-Day 11: Continued through Section 7 of the course and learned about pure functions, map(), filter(), zip(), and reduce ()
+Day 11: Continued through Section 7 of the course and learned about pure functions, map(), filter(), zip(), and reduce ().
 
 Day 12: Finished up with Section 7 by learning about Lambda expression and list/set/dictionary comprehension.
 
 Day 13: Started to work on learning Decorators in Section 8 of the course.
 
-Day 14: Completed the section on Decorators in Python and moved onto Error Handling in Section 9
+Day 14: Completed the section on Decorators in Python and moved onto Error Handling in Section 9.
 
 Day 15: Completed Section 9 and 10 of the course.
 
 Day 16: Began Section 11 and started to learn about Modules in Python.
 
-Day 17: Continued working though Section 11 and created a guessing number game from scratch
+Day 17: Continued working though Section 11 and created a guessing number game from scratch.
 
 Day 18: Continued through Section 11 and changed the code around in the guessing game that was created on the previous day to
 use implement a while loop instead of a for loop and to have a valueerror exception added in as well.
 
-Day 19: Completed Section 11, 12, and 13. Moved onto learning about Regular Expressions
+Day 19: Completed Section 11, 12, and 13. Moved onto learning about Regular Expressions.
 
-Day 20: 
+Day 20: Finished Sections 14, 15, and 16 of the course and moved onto the first of projects to create using the course!
