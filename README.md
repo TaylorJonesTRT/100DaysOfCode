@@ -56,3 +56,8 @@ use implement a while loop instead of a for loop and to have a valueerror except
 Day 19: Completed Section 11, 12, and 13. Moved onto learning about Regular Expressions.
 
 Day 20: Finished Sections 14, 15, and 16 of the course and moved onto the first of projects to create using the course!
+
+Day 21: Created a Image Converter as my first project with Python while following the Zero to Mastery course!
+
+Day 22: Created a PDF file merger and played around with the PyPDF2 module while also creating some other small projects using
+it.
