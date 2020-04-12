@@ -61,3 +61,8 @@ Day 21: Created a Image Converter as my first project with Python while followin
 
 Day 22: Created a PDF file merger and played around with the PyPDF2 module while also creating some other small projects using
 it.
+
+Day 23: Created a program following the course that allowed me to send out emails using my own Gmail address credentials.
+
+Day 24: Started the Web Development section of the Python course and learned how to start a virtual enviorment so that I could
+use Flask. Also set up a Flask server. Began work on a very simple Python Discord bot to further my learning.
