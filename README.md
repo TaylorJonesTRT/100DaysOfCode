@@ -66,3 +66,10 @@ Day 23: Created a program following the course that allowed me to send out email
 
 Day 24: Started the Web Development section of the Python course and learned how to start a virtual enviorment so that I could
 use Flask. Also set up a Flask server. Began work on a very simple Python Discord bot to further my learning.
+
+Day 25: Worked further on the Discord bot to use on a personal server that I am apart of with friends, figured out how to make
+it so that only people in the Admin role can use certain commands. Also worked on porting over an Automatic Time Tracker that
+somebody else made in an earlier version of Python to Python 3.
+
+Day 26: Continued on in the Python course with learning Flask and working on a personal portfolio website using Python and
+Flask. Started work on a beginner project of creating a Login system as well (yes I know I have a lot of projects going).
