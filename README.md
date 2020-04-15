@@ -5,7 +5,7 @@ and also a daily log of what I did each day.
 
 ## Personal Projects
 
-None as of yet
+[A Simple Python 3 Blackjack Game](https://github.com/TheRevTasticTJ/blackjack)
 
 ## Daily Log
 
@@ -73,3 +73,6 @@ somebody else made in an earlier version of Python to Python 3.
 
 Day 26: Continued on in the Python course with learning Flask and working on a personal portfolio website using Python and
 Flask. Started work on a beginner project of creating a Login system as well (yes I know I have a lot of projects going).
+
+Day 27: Finished the Web Development section of the ZtM Python course. Continued work on the login syste, started creating a
+blackjack card game in Python and added the repo for the game above to personal projects.
