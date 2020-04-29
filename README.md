@@ -6,6 +6,7 @@ and also a daily log of what I did each day.
 ## Personal Projects
 
 [A Simple Python 3 Blackjack Game](https://github.com/TheRevTasticTJ/blackjack)
+[A Simple User Login Program](https://github.com/TheRevTasticTJ/Loginsystem)
 
 ## Daily Log
 
@@ -91,4 +92,4 @@ Day 32: Completed the Automation/Testing section and moved onto the final sectio
 
 Day 33: Started work on a web scraper and a simple login system (this is different from the last one and actually works).
 
-Day 34: Finished the main functionality of the login system, started to work on getting the loops to work properly and setup password hashing
+Day 34: Finished the main functionality of the login system, started to work on getting the loops to work properly and setup password hashing.
