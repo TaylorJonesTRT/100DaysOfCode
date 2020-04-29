@@ -84,7 +84,9 @@ onto making the code into OOP with clearly defined functions.
 Day 29: Completed the simple blackjack game by finishing the complete rewrite of the entire program which can be found above
 under personal projects.
 
-Day 30: Started and completed the Web Scraping section of the Zero to Mastery course and started on the Automation/Testing section. Started work on personal website to be used as a portfolio, blog (already up and running [HERE}(https://blog.taylorwjones.com)), and online resume.
+Day 30: Started and completed the Web Scraping section of the Zero to Mastery course and started on the Automation/Testing
+section. Started work on personal website to be used as a portfolio, blog (already up and running
+[HERE](https://blog.taylorwjones.com)), and online resume.
 
 Day 31: Started and continued on with the Automation/Testing portion of the course and learned how to use Selenium.
 
@@ -92,4 +94,9 @@ Day 32: Completed the Automation/Testing section and moved onto the final sectio
 
 Day 33: Started work on a web scraper and a simple login system (this is different from the last one and actually works).
 
-Day 34: Finished the main functionality of the login system, started to work on getting the loops to work properly and setup password hashing.
+Day 34: Finished the main functionality of the login system, started to work on getting the loops to work properly and setup
+password hashing.
+
+Day 35: Completed the login system with password hashing and looping. Started ground work on a new project for a reddit bot
+and began following along with
+a django and flask tutorial.
