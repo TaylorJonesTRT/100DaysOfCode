@@ -5,7 +5,7 @@ and also a daily log of what I did each day.
 
 ## Personal Projects
 
-[A Simple Python 3 Blackjack Game](https://github.com/TheRevTasticTJ/blackjack)
+[A Simple Python 3 Blackjack Game](https://github.com/TheRevTasticTJ/blackjack)  
 [A Simple User Login Program](https://github.com/TheRevTasticTJ/Loginsystem)
 
 ## Daily Log
