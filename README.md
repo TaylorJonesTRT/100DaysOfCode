@@ -88,3 +88,7 @@ Day 30: Started and completed the Web Scraping section of the Zero to Mastery co
 Day 31: Started and continued on with the Automation/Testing portion of the course and learned how to use Selenium.
 
 Day 32: Completed the Automation/Testing section and moved onto the final section of Machine Learning and Data Science.
+
+Day 33: Started work on a web scraper and a simple login system (this is different from the last one and actually works).
+
+Day 34: Finished the main functionality of the login system, started to work on getting the loops to work properly and setup password hashing
