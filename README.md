@@ -86,7 +86,7 @@ under personal projects.
 
 Day 30: Started and completed the Web Scraping section of the Zero to Mastery course and started on the Automation/Testing
 section. Started work on personal website to be used as a portfolio, blog (already up and running
-[HERE](https://blog.taylorwjones.com)), and online resume.
+[HERE](https://blog.taylorwjones.com), and online resume.
 
 Day 31: Started and continued on with the Automation/Testing portion of the course and learned how to use Selenium.
 
@@ -98,5 +98,22 @@ Day 34: Finished the main functionality of the login system, started to work on 
 password hashing.
 
 Day 35: Completed the login system with password hashing and looping. Started ground work on a new project for a reddit bot
-and began following along with
-a django and flask tutorial.
+and began following along with a django and flask tutorial.
+
+Day 36: Started working on a program that can display the n digits of Pi.
+
+Day 37: Finished the Pi digit generator and started work on following a tutorial on making a blog like platform with Flask.
+
+Day 38: Continued following along side the Flask tutorial. Started doing research and preliminary work in creating a CLI To-Do List (typing out all features I would like to create for it to have and how it will work).
+
+Day 39: Continued work on the to-do list project. Did research on how others did there's and contemplated what to actually implement into my own version.
+
+Day 40: Picked up where I left off in the Learn Python 3 The Hard Way book to help further understand some concepts that I have not fully grasped yet. Will probably finish this book and then move onto finishing Automate the Boring Stuff and finish that as well.
+
+Day 41: Did some work on my personal website, purchased a bootstrap theme and started to incorporate my own information and also set it up to use Flask.
+
+Day 42: Continued reading through Learn Python 3 the Hard Way and started to learn more about data structure (something I am struggling with).
+
+Day 43: Started work on a homework assignment that was given from the Learn Python 3 the Hard Way book which is to create a simple text driven game where the player has decisions to make.
+
+Day 44: Continued work on the homework assignment and finished up some of the major functions of the game. 
