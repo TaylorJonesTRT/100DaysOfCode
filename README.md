@@ -117,3 +117,9 @@ Day 42: Continued reading through Learn Python 3 the Hard Way and started to lea
 Day 43: Started work on a homework assignment that was given from the Learn Python 3 the Hard Way book which is to create a simple text driven game where the player has decisions to make.
 
 Day 44: Continued work on the homework assignment and finished up some of the major functions of the game. 
+
+Day 45: Finished the first revision of the game for the homework
+
+Day 46: Realized that the code I created wouldn't work properly how I wanted to so rewrote the entire game again to be simpler and have less functionality and completed the game.
+
+Day 47: Had to take a break for a few days due to other priorities but today I created a little program to tell me how much from my 2 paychecks a month I would need to put towards my portion of bills I pay with my girlfriend because I got lazy doing it myself.
