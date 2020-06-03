@@ -6,7 +6,7 @@ and also a daily log of what I did each day.
 ## Personal Projects
 
 [A Simple Python 3 Blackjack Game](https://github.com/TaylorJonesTRT/blackjack)  
-[A Simple User Login Program](https://github.com/TaylorJonesTRT/Loginsystem)
+[A Simple User Login Program](https://github.com/TaylorJonesTRT/Loginsystem)  
 [MovieMatch!](https://github.com/TaylorJonesTRT/MovieMatch/)
 
 ## Daily Log
