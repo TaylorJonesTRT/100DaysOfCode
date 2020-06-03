@@ -5,8 +5,9 @@ and also a daily log of what I did each day.
 
 ## Personal Projects
 
-[A Simple Python 3 Blackjack Game](https://github.com/TheRevTasticTJ/blackjack)  
-[A Simple User Login Program](https://github.com/TheRevTasticTJ/Loginsystem)
+[A Simple Python 3 Blackjack Game](https://github.com/TaylorJonesTRT/blackjack)  
+[A Simple User Login Program](https://github.com/TaylorJonesTRT/Loginsystem)
+[MovieMatch!](https://github.com/TaylorJonesTRT/MovieMatch/)
 
 ## Daily Log
 
@@ -118,8 +119,34 @@ Day 43: Started work on a homework assignment that was given from the Learn Pyth
 
 Day 44: Continued work on the homework assignment and finished up some of the major functions of the game. 
 
-Day 45: Finished the first revision of the game for the homework
+Day 45: Finished the first revision of the game for the homework.
 
 Day 46: Realized that the code I created wouldn't work properly how I wanted to so rewrote the entire game again to be simpler and have less functionality and completed the game.
 
 Day 47: Had to take a break for a few days due to other priorities but today I created a little program to tell me how much from my 2 paychecks a month I would need to put towards my portion of bills I pay with my girlfriend because I got lazy doing it myself.
+
+Day 48: Started to learn how to use Django to create web apps to be able to work on future projects.
+
+Day 49: Began learning how to use Django by following the Corey Schafer tutorial on YouTube.
+
+Day 50: Continued learning more about Django and how to create a user registration page that actually allows a user to register. Also started on The Odin Project.
+
+Day 51: Started to go through The Odin Project to further my learning of front and back end web development.
+
+Day 52: Continued with The Odin Project, Django tutorial, and started doing research for a random web app project.
+
+Day 53: Started on a proof of concept for the web app.
+
+Day 54: Completed the proof of concept and decided on a name, MovieMatch! MovieMatch! Will be a tinder like web app but for every movie made (later on probably just Netflix). Started on the Django portion of the project to get the website up and running.
+
+Day 55: Continued on MovieMatch!. Transitioned the project from Django to Flask for easier implementation. Created the basic layout of everything needed and got the web app up and running (even though it does have some bugs).
+
+Day 56: Completed the basic functions for MovieMatch! Made it prettier using bootstrap,fontawesome, and some nifty CSS. 
+
+Day 57: Started working on the next version of MovieMatch! Will need to change the projects name to incorporate shows as well. Working on Github repo to show off MovieMatch!
+
+Day 58: Started the migration from Flask to Django for MovieMatch! Ran into some issues though. Can't use Disney plus, amazon prime, or Hulu for the project anymore due to complications with the kaggle dataset. MovieMatch! Will now become NetflixMatch! Or another name that I can think up (which will hopefully be better). 
+
+Day 59: Got NetflixMatch working with Django and using the kaggle dataset rather than the json file that contains every movie in existence. Everything is now up and running on Django.
+
+Day 60: Began work on the user profile functionality using Django. Working on using the basic user login/register functions provided by Django and creating a profile view for the site.
